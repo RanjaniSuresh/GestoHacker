@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+{
+  "name"         : "emerill-foods",
+  "version"      : "1.0.0",
+  "description"  : "Order Management Application - Gesto.",
+  "main"         : "server.js",
+  "author"       : "Ranjani Suresh",
+  "dependencies" : {
+    "express"         : "~4.13.4",
+    "mongoose"        : "~3.8.13",
+    "morgan"          : "~1.1.1",
+    "body-parser"     : "~1.4.3",
+    "method-override" : "~2.1.1"
+  }
+}
+=======
+{
+  "name"         : "emerill-foods",
+  "version"      : "1.0.0",
+  "description"  : "Order Management Application - Gesto.",
+  "main"         : "server.js",
+  "author"       : "Ranjani Suresh",
+  "dependencies" : {
+    "express"         : "~4.13.4",
+    "mongoose"        : "~3.8.13",
+    "morgan"          : "~1.1.1",
+    "body-parser"     : "~1.4.3",
+    "method-override" : "~2.1.1"
+  }
+}
+>>>>>>> b9f6329007ff1600a48dcf354d521ae526ec8bb7

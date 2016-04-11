@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+1.Added a carousal of food items as the background 
+=======
+1.Added a carousal of food items as the background 
+>>>>>>> b9f6329007ff1600a48dcf354d521ae526ec8bb7
+2.Added an alertify pop up depicting creation and deletion of food items.
